@@ -10,7 +10,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/16ZcSvGHLUMF2kpbRJtG-s6e_8CD8pRHx/view?usp=drive_link](https://drive.google.com/file/d/16ZcSvGHLUMF2kpbRJtG-s6e_8CD8pRHx/view?usp=drive_link)
 
 <h3 align="center">Connect with me:</h3>
-<p align="center"<style>colour="Yellow"</style>
+<p align="center"
 <a href="https://twitter.com/snigdha_datta7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snigdha_datta7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/snigdhadatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snigdhadatta" height="30" width="40" /></a>
 <a href="https://hashnode.com/@snigdhadatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@snigdhadatta" height="30" width="40" /></a>
