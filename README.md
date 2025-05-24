@@ -25,7 +25,7 @@
 <h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Snigdha Datta"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Snigdha Datta" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snigdhadatta&show_icons=true&locale=en&layout=compact" alt="snigdhadatta" /> &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=snigdhadatta&show_icons=true&locale=en" alt="snigdhadatta" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snigdhadatta&show_icons=true&locale=en&layout=compact" alt="snigdhadatta" /> <!--&nbsp;--><img align="right" src="https://github-readme-stats.vercel.app/api?username=snigdhadatta&show_icons=true&locale=en" alt="snigdhadatta" /></p>
 
 <!--<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=snigdhadatta&show_icons=true&locale=en" alt="snigdhadatta" /></p>-->
 
