@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Snigdha Datta</h1>
-<h3 align="center">Aspiring SDE and passionate cinematographer</h3>
+<h3 align="center">Aspiring SDE, Learning Web Dev, Grinding DSA and Passionate Cinematographer</h3>
 
 - 🌱 I’m currently learning **NodeJs, Next , React , DSA using C++**
 
@@ -20,7 +20,11 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snigdhadatta&theme=react-dark&show_icons=true&locale=en&layout=compact" alt="snigdhadatta" /> <!--&nbsp;--><img align="right" src="https://github-readme-stats.vercel.app/api?username=snigdhadatta&theme=react-dark&show_icons=true&locale=en" alt="snigdhadatta" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,nodejs,cpp,git,java,python" />
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snigdhadatta&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="snigdhadatta" /> <!--&nbsp;--><img align="right" src="https://github-readme-stats.vercel.app/api?username=snigdhadatta&theme=github_dark&show_icons=true&locale=en" alt="snigdhadatta" /></p>
 <br/>
 <br/>
 
