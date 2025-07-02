@@ -24,7 +24,10 @@
   <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,nodejs,cpp,git,java,python" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snigdhadatta&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="snigdhadatta" /> <!--&nbsp;--><img align="right" src="https://github-readme-stats.vercel.app/api?username=snigdhadatta&theme=github_dark&show_icons=true&locale=en" alt="snigdhadatta" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snigdhadatta&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="Top Langs" style="margin-bottom: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=snigdhadatta&theme=github_dark&show_icons=true&locale=en" alt="GitHub Stats" />
+</div>
 <br/>
 <br/>
 
