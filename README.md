@@ -21,7 +21,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,nodejs,cpp,git,java,python" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,nodejs,cpp,git,html,vercel,netlify,gcp,css,java,python" />
 </p>
 
 <div align="center">
