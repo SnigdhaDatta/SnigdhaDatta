@@ -36,6 +36,13 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SnigdhaDatta&theme=react-dark&hide_border=false&area=tru" width="*91%">
 </div>
+<br/>
+
+<div align="center">
+  
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lz7ptw1xuzn0eg7hp0z38wujw&cover_image=true&theme=default&show_offline=false&background_color=github_dark&interchange=false&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=lz7ptw1xuzn0eg7hp0z38wujw&redirect=true)
+
+</div>
 
 <!--<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=snigdhadatta&show_icons=true&locale=en" alt="snigdhadatta" /></p>-->
 
