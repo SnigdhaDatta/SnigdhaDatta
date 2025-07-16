@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Snigdha Datta</h1>
+<h1 align="center">Hi 👋, I'm Snigdha Datta</h1>  
 <h3 align="center">Aspiring SDE, Learning Web Dev, Grinding DSA and Passionate Cinematographer</h3>
 
 - 🌱 I’m currently learning **NodeJs, Next , React , DSA using C++**
@@ -8,6 +8,8 @@
 - 📫 How to reach me **snigdha04datta@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16ZcSvGHLUMF2kpbRJtG-s6e_8CD8pRHx/view?usp=drive_link](https://drive.google.com/file/d/16ZcSvGHLUMF2kpbRJtG-s6e_8CD8pRHx/view?usp=drive_link)
+
+- 👁️ ![Profile Views](https://komarev.com/ghpvc/?username=SnigdhaDatta)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"
