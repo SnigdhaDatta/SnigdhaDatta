@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Snigdha Datta</h1>  
 <h3 align="center">Aspiring SDE, Learning Web Dev, Grinding DSA and Passionate Cinematographer</h3>
+<p align="center">
+  <img src="Sousou no Frieren.jpg" width="900"/>
+</p>
 
 - 🌱 I’m currently learning **NodeJs, Next , React , DSA using C++**
 
