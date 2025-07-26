@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **NodeJs, Next , React , DSA using C++**
 
-- 📝 I regularly write articles on [https://hashnode.com/@SnigdhaDatta](https://hashnode.com/@SnigdhaDatta)
+- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@SnigdhaDatta)
 
 - 📫 How to reach me **snigdha04datta@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16ZcSvGHLUMF2kpbRJtG-s6e_8CD8pRHx/view?usp=drive_link](https://drive.google.com/file/d/16ZcSvGHLUMF2kpbRJtG-s6e_8CD8pRHx/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/17jiJSQsOn5JVWotUFvwMwP3CIeY3tgXs/view?usp=sharing)
 
 - 👁️ ![Profile Views](https://komarev.com/ghpvc/?username=SnigdhaDatta)
 
