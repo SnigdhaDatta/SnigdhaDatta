@@ -4,7 +4,7 @@
   <img src="Sousou no Frieren.jpg" width="900"/>
 </p>
 
-- 🌱 I’m currently learning **NodeJs, Next , React , DSA using C++**
+- 🌱 I’m currently learning **NodeJs, Next , React , DSA using C++** and building **[Dramadojo](https://dramadojo.vercel.app/)**
 
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@SnigdhaDatta)
 
