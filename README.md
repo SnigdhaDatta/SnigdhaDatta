@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Snigdha Datta</h1>  
-<h3 align="center">Aspiring SDE, Learning Web Dev, Grinding DSA and Passionate Cinematographer</h3>
+<h3 align="center">Sloth for life</h3>
 <p align="center">
   <img src="Sousou no Frieren.jpg" width="900"/>
 </p>
@@ -43,7 +43,7 @@
 
 <div align="center">
   
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lz7ptw1xuzn0eg7hp0z38wujw&cover_image=true&theme=default&show_offline=false&background_color=github_dark&interchange=false&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=lz7ptw1xuzn0eg7hp0z38wujw&redirect=true)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lz7ptw1xuzn0eg7hp0z38wujw&cover_image=false&theme=default&show_offline=false&background_color=github_dark&interchange=false&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=lz7ptw1xuzn0eg7hp0z38wujw&redirect=true)
 
 </div>
 
