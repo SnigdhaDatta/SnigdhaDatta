@@ -14,6 +14,8 @@
 
 - 👁️ ![Profile Views](https://komarev.com/ghpvc/?username=SnigdhaDatta)
 
+[![An image of @snigdhadatta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/snigdhadatta)](https://holopin.io/@snigdhadatta)
+
 <h3 align="center">Connect with me:</h3>
 <p align="center"
 <a href="https://twitter.com/snigdha_datta7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snigdha_datta7" height="30" width="40" /></a>
