@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm Snigdha Datta</h1>  
 <h3 align="center">Sloth for life</h3>
 <p align="center">
   <img src="Sousou no Frieren.jpg" width="900"/>
 </p>
 
 - 🌱 I’m currently learning **NodeJs, Next , React , DSA using C++** and building **[Kineq](https://kineq.vercel.app/)**
-
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@SnigdhaDatta)
-
 - 📫 How to reach me **snigdha04datta@gmail.com**
-
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/17jiJSQsOn5JVWotUFvwMwP3CIeY3tgXs/view?usp=sharing)
 
 - 👁️ ![Profile Views](https://komarev.com/ghpvc/?username=SnigdhaDatta)
@@ -35,12 +31,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SnigdhaDatta&theme=react-dark&hide_border=false&area=tru" width="*91%">
 </div>
-<br/>
-
-<div align="center">
-  
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lz7ptw1xuzn0eg7hp0z38wujw&cover_image=false&theme=default&show_offline=false&background_color=github_dark&interchange=false&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=lz7ptw1xuzn0eg7hp0z38wujw&redirect=true)
-
 </div>
 
 <!--<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=snigdhadatta&show_icons=true&locale=en" alt="snigdhadatta" /></p>-->
