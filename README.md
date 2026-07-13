@@ -1,2 +1,5 @@
-- Eat -> Sleep -> Watching dramas and animes -> fangirling -> Coding -> buying cute things ヾ(≧▽≦*)o
-- Grinding Backend and DevOps ^_^
+ Hi, I'm Snigdha 👋
+
+> - Full Stack Developer passionate about backend engineering and distributed systems.
+> - Building Kineq and CandleFlow.
+> - Currently learning Kubernetes and cloud-native technologies.
